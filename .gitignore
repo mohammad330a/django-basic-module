@@ -1,0 +1,17 @@
+# python
+__pycache__
+*/__pycache__
+
+# ides / editors
+.idea
+.vscode
+
+# logs
+logger.log
+logs/*
+
+# venv
+venv
+
+# config
+config.json
