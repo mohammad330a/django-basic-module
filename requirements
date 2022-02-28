@@ -1,2 +1,5 @@
 # Django
 Django==4.0.2
+
+# Database
+mysqlclient==2.1.0
