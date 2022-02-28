@@ -6,3 +6,6 @@ mysqlclient==2.1.0
 
 # DRF
 djangorestframework==3.13.1
+
+# cors header
+django-cors-headers==3.11.0
